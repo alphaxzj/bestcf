@@ -1,64 +1,64 @@
-www.chess.com:2096#US 电信优选[www.chess.com 151ms]
-registry.npmjs.org:2087#US 电信优选[registry.npmjs.org 152ms]
-sourceforge.net:2083#US 电信优选[sourceforge.net 152ms]
-www.spacex.com:2053#US 电信优选[www.spacex.com 152ms]
-hubspot.com:2053#US 电信优选[hubspot.com 153ms]
-www.scayle.com:2053#US 电信优选[www.scayle.com 154ms]
-digitalocean.com:443#US 电信优选[digitalocean.com 154ms]
-www.acces-maroc.ma:2096#US 电信优选[www.acces-maroc.ma 154ms]
-videodelivery.net:8443#US 电信优选[videodelivery.net 154ms]
-rocketreach.co:2083#US 电信优选[rocketreach.co 155ms]
-www.eccu.edu:2083#US 电信优选[www.eccu.edu 155ms]
-grass.io:443#US 电信优选[grass.io 155ms]
-gitlab.com:443#US 电信优选[gitlab.com 155ms]
-pure.coupert.com:2087#US 电信优选[pure.coupert.com 156ms]
-smapi.xystem138.com:2083#US 电信优选[smapi.xystem138.com 157ms]
-sunkist.com:2053#US 电信优选[sunkist.com 157ms]
-hostinger.com:2087#US 电信优选[hostinger.com 157ms]
-garuda-indonesia.com:2087#US 电信优选[garuda-indonesia.com 157ms]
-journeys.com:8443#US 电信优选[journeys.com 158ms]
-dev.graco.com:2053#US 电信优选[dev.graco.com 158ms]
-aftership.com:2083#US 电信优选[aftership.com 159ms]
-cloudflare.tv:8443#US 电信优选[cloudflare.tv 159ms]
-www.roche.com:8443#US 电信优选[www.roche.com 159ms]
-shen6011.pages.dev:2087#US 电信优选[shen6011.pages.dev 160ms]
-api.uniapi.io:2083#US 电信优选[api.uniapi.io 160ms]
-alternativeto.net:2087#US 电信优选[alternativeto.net 160ms]
-hlevakha.gov.ua:443#US 电信优选[hlevakha.gov.ua 161ms]
-webn.cc:443#US 电信优选[webn.cc 161ms]
-www.moc.gov.tw:443#US 电信优选[www.moc.gov.tw 161ms]
-tinyurl.com:2087#US 电信优选[tinyurl.com 162ms]
-packtpub.com:2087#US 电信优选[packtpub.com 162ms]
-dexari.com:443#US 电信优选[dexari.com 162ms]
-themeisle.com:8443#US 电信优选[themeisle.com 163ms]
-bitsight.com:2087#US 电信优选[bitsight.com 163ms]
-crowdstrike.com:2083#US 电信优选[crowdstrike.com 163ms]
-newsroom.avalara.com:8443#US 电信优选[newsroom.avalara.com 164ms]
-www.copilot.com:2087#US 电信优选[www.copilot.com 165ms]
-www.ntu.edu.sg:2087#US 电信优选[www.ntu.edu.sg 165ms]
-www.lbl.gov:2087#US 电信优选[www.lbl.gov 166ms]
-www.donaldjtrump.com:2083#US 电信优选[www.donaldjtrump.com 166ms]
-debot.ai:2083#US 电信优选[debot.ai 167ms]
-qoj.ac:443#US 电信优选[qoj.ac 168ms]
-centerofthewest.org:2053#US 电信优选[centerofthewest.org 169ms]
-www.people.inc:8443#US 电信优选[www.people.inc 170ms]
-dynadot.com:8443#US 电信优选[dynadot.com 171ms]
-www.npmjs.com:2096#US 电信优选[www.npmjs.com 171ms]
-pubs.acs.org:2096#US 电信优选[pubs.acs.org 171ms]
-kick.com:2083#US 电信优选[kick.com 172ms]
-cf.drxian.dpdns.org:8443#US 电信优选[cf.drxian.dpdns.org 172ms]
-www.epicgames.com:2053#US 电信优选[www.epicgames.com 173ms]
-www.mediafire.com:2087#US 电信优选[www.mediafire.com 174ms]
-mail.murata.com:2096#US 电信优选[mail.murata.com 175ms]
-www.speedtest.net:2087#US 电信优选[www.speedtest.net 176ms]
-stlouiscountymo.gov:2087#US 电信优选[stlouiscountymo.gov 176ms]
-api.producthunt.com:443#US 电信优选[api.producthunt.com 176ms]
-page.mercer.com:2053#US 电信优选[page.mercer.com 176ms]
-www.trumpinternationalrealty.com:443#US 电信优选[www.trumpinternationalrealty.com 177ms]
-fbi.gov:8443#US 电信优选[fbi.gov 178ms]
-mskcc.org:2083#US 电信优选[mskcc.org 183ms]
-mogas.com:8443#US 电信优选[mogas.com 184ms]
-store.ubisoft.com:2087#US 电信优选[store.ubisoft.com 191ms]
-chrono24.com:8443#US 电信优选[chrono24.com 196ms]
-nist.gov:2083#US 电信优选[nist.gov 285ms]
-cf.0sm.com:443#US 电信优选[cf.0sm.com 416ms]
+www.chess.com:2096#US 电信优选1
+registry.npmjs.org:2087#US 电信优选2
+sourceforge.net:2083#US 电信优选3
+www.spacex.com:2053#US 电信优选4
+hubspot.com:2053#US 电信优选5
+www.scayle.com:2053#US 电信优选6
+digitalocean.com:443#US 电信优选7
+www.acces-maroc.ma:2096#US 电信优选8
+videodelivery.net:8443#US 电信优选9
+rocketreach.co:2083#US 电信优选10
+www.eccu.edu:2083#US 电信优选11
+grass.io:443#US 电信优选12
+gitlab.com:443#US 电信优选13
+pure.coupert.com:2087#US 电信优选14
+smapi.xystem138.com:2083#US 电信优选15
+sunkist.com:2053#US 电信优选16
+hostinger.com:2087#US 电信优选17
+garuda-indonesia.com:2087#US 电信优选18
+journeys.com:8443#US 电信优选19
+dev.graco.com:2053#US 电信优选20
+aftership.com:2083#US 电信优选21
+cloudflare.tv:8443#US 电信优选22
+www.roche.com:8443#US 电信优选23
+shen6011.pages.dev:2087#US 电信优选24
+api.uniapi.io:2083#US 电信优选25
+alternativeto.net:2087#US 电信优选26
+hlevakha.gov.ua:443#US 电信优选27
+webn.cc:443#US 电信优选28
+www.moc.gov.tw:443#US 电信优选29
+tinyurl.com:2087#US 电信优选30
+packtpub.com:2087#US 电信优选31
+dexari.com:443#US 电信优选32
+themeisle.com:8443#US 电信优选33
+bitsight.com:2087#US 电信优选34
+crowdstrike.com:2083#US 电信优选35
+newsroom.avalara.com:8443#US 电信优选36
+www.copilot.com:2087#US 电信优选37
+www.ntu.edu.sg:2087#US 电信优选38
+www.lbl.gov:2087#US 电信优选39
+www.donaldjtrump.com:2083#US 电信优选40
+debot.ai:2083#US 电信优选41
+qoj.ac:443#US 电信优选42
+centerofthewest.org:2053#US 电信优选43
+www.people.inc:8443#US 电信优选44
+dynadot.com:8443#US 电信优选45
+www.npmjs.com:2096#US 电信优选46
+pubs.acs.org:2096#US 电信优选47
+kick.com:2083#US 电信优选48
+cf.drxian.dpdns.org:8443#US 电信优选49
+www.epicgames.com:2053#US 电信优选50
+www.mediafire.com:2087#US 电信优选51
+mail.murata.com:2096#US 电信优选52
+www.speedtest.net:2087#US 电信优选53
+stlouiscountymo.gov:2087#US 电信优选54
+api.producthunt.com:443#US 电信优选55
+page.mercer.com:2053#US 电信优选56
+www.trumpinternationalrealty.com:443#US 电信优选57
+fbi.gov:8443#US 电信优选58
+mskcc.org:2083#US 电信优选59
+mogas.com:8443#US 电信优选60
+store.ubisoft.com:2087#US 电信优选61
+chrono24.com:8443#US 电信优选62
+nist.gov:2083#US 电信优选63
+cf.0sm.com:443#US 电信优选64
