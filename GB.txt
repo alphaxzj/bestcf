@@ -1,0 +1,3 @@
+glitterx.cloud:443#GB 电信优选1
+i.pixiv.re:443#GB 电信优选2
+duckybot.xyz:443#GB 电信优选3
